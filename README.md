@@ -1,7 +1,7 @@
 <h1 align="center">I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection</h1> 
 
 <p align="center">
-<a href="https://arxiv.org/abs/2108.01343v3"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a><a href="https://link.springer.com/article/10.1007/s11263-022-01616-6"><img src="https://img.shields.io/badge/publication-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/2108.01343v3"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a> <a href="https://link.springer.com/article/10.1007/s11263-022-01616-6"><img src="https://img.shields.io/badge/publication-Paper-<color>"></a>
 </p>
 
 <p align="center">
