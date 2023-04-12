@@ -1,7 +1,7 @@
-<h1 align="center"> I3CL </h1> 
+<h1 align="center">I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection</h1> 
 
 <p align="center">
-<a href="https://arxiv.org/abs/2108.01343v3"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/2108.01343v3"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a><a href="https://link.springer.com/article/10.1007/s11263-022-01616-6"><img src="https://img.shields.io/badge/publication-Paper-<color>"></a>
 </p>
 
 <p align="center">
@@ -12,9 +12,7 @@
   <a href="#citation">Citation</a> |
   <a href="#acknowledgment">Acknowledgment</a>
 </p >
-This is the repo for [IJCV'22] "I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection". 
-
-I3CL with ViTAEv2, ResNet50 and ResNet50 w/ RegionCL backbone are included.
+This is the repo for [IJCV'22] "I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection". I3CL with ViTAEv2, ResNet50 and ResNet50 w/ RegionCL backbone are included.
 
 ***
 
@@ -24,6 +22,8 @@ I3CL with ViTAEv2, ResNet50 and ResNet50 w/ RegionCL backbone are included.
 >***[2022/04/11]*** Add SSL training code for this implementation.
 >
 >***[2022/04/09]*** The training code for ICDAR2019 ArT dataset is uploaded.
+>
+>***[2021/07/05]*** Ranks the first at [ICDAR2019 ArT leaderboard](https://rrc.cvc.uab.es/?ch=14&com=evaluation&task=1).
 >
 > Other applications of ViTAE Transformer: [**Image Classification**](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Image-Classification) | [**Object Detection**](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Object-Detection) | [**Sementic Segmentation**](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Semantic-Segmentation) | [**Animal Pose Estimation**](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Animal-Pose-Estimation) | [**Matting**](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting) | [**Remote Sensing**](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing)
 
